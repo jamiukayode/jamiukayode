@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamiukayode
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning learning Django
+- 🌱 I’m currently learning  Django
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 reach me through my email: jamiuayepekayode@gmail.com...
 
